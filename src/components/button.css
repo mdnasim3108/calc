@@ -1,0 +1,18 @@
+.equal{
+    padding:10px 3.3rem;
+}
+.btn{
+    font-size: medium;
+    font-weight:1000;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+.boxEffect{
+    box-shadow: 2px 2px
+}
+.sample{
+    width: 10rem;
+}
+.clear,.back,.mod,.div,.mul,.sub,.add,.point,.equal{
+    background-color: chocolate;
+}

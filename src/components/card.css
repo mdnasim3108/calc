@@ -1,0 +1,28 @@
+.container {
+    background-color: antiquewhite;
+    width: 18rem;
+    height: 26rem;
+    margin-top: 5rem;
+    padding: 2rem;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px -1px 18px 3px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 4px -1px 18px 3px rgba(0, 0, 0, 0.44);
+    box-shadow: 4px -1px 18px 3px rgba(0, 0, 0, 0.44);
+    padding-left: 5rem;
+}
+
+
+
+.layout>* {
+    margin: 3px 5px;
+    padding: 10px;
+    width: 3rem;
+    background-color: burlywood;
+    border-radius: 10px;
+    opacity: 0.9;
+    height: 3.5rem;
+}
+
+.layout>*:hover {
+    opacity: 1;
+}
